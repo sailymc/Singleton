@@ -1,0 +1,5 @@
+﻿// Singleton
+
+public class MonoBehaviour
+{
+}
